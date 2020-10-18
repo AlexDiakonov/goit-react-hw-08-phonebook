@@ -26,3 +26,9 @@
   border-top: 1px solid black;
   border-radius: 15px;
 }
+@media (max-width: 1000px) {
+  .userContainer {
+    position: absolute;
+    left: 50%;
+  }
+}
