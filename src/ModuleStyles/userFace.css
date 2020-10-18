@@ -1,0 +1,28 @@
+.userContainer {
+  width: 260px;
+  display: flex;
+}
+.avatar {
+  height: 50px;
+  border-radius: 50%;
+}
+.nameContainer {
+  width: 100%;
+}
+.logoutBTN {
+  margin: 0 0 0 20px;
+  background: transparent;
+  background-color: rgba(204, 19, 19, 0.712);
+  min-height: 33px;
+  font-family: "Teko", sans-serif;
+  outline: none;
+  display: block;
+  min-width: 120px;
+  max-width: 95%;
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-radius: 15px;
+}
